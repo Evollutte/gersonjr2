@@ -13,12 +13,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Minhas atividades:
-<a href="https://github.com/gersonjr2">
+<a href="https://github.com/Evollutte">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=gersonjr2&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 
-<a href="https://github.com/Pepyn0">
+<a href="https://github.com/Evollutte">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjr2&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 
-![Snake animation](https://github.com/gersonjr2/gersonjr2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/evollutte/evollutte/blob/output/github-contribution-grid-snake.svg)
